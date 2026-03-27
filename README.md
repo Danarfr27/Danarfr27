@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM3aHB6Z2t5OXNxdjAxcGlsZXQwZXpyMmNoODFkZzd6bnp4dnJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaV9pZCZjdD1n/MCXgiBVDl8QtojG1fU/giphy.gif" 
-       alt="Cybersecurity Banner" width="600"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM3aHB6Z2t5OXNxdjAxcGlsZXQwZXpyMmNoODFkZzd6bnp4dnJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaV9pZCZjdD1n/MCXgiBVDl8QtojG1fU/giphy.gif" 
+      alt="Cybersecurity Banner" width="600" loop/>
 </p>
 
 <h1 align="center">Hi there, I'm FE4RD0WN !! 👋</h1>
@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
 
 <table>
   <tr>
@@ -46,26 +45,13 @@
   </tr>
 </table>
 
-<h3 align="center">📊 My GitHub Stats & Trophies</h3>
+
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=versaagonon&theme=dracula&column=7" alt="Trophies" />
+  <a href="https://f.top4top.io/m_37387wpn81.mp4">
+    <img src="https://i.top4top.io/p_3738nj61b1.gif" alt="GIF Animasi" width="400"/>
   </a>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=versaagonon&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=versaagonon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=versaaagonon&theme=onedark-duo&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
-  </a>
-</p>
-
 
 <p align="center">
   <sub>Legend never dies. Code never sleeps. ⚡</sub>
