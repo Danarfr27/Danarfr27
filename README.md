@@ -7,7 +7,8 @@
 <h3 align="center">"Known as Random people and random repo :3"</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danarfr27&label=Profile%20Views&color=1e90ff&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/👁️_10.3K_Profile_Views-1e90ff?style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Danarfr27&style=flat-square&color=grey" alt="" width="1" height="1"/>
 </p>
 
 ---
@@ -31,13 +32,6 @@
 <p align="center">
   <a href="https://wormuptodate.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🟢_Online-Click_to_Chat-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="AI Chat Online"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wormuptodate.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Danarfr27/NASA/main/ai-chat-preview.gif" 
-         alt="AI Chat Preview" width="500"/>
   </a>
 </p>
 
