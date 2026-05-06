@@ -26,6 +26,21 @@
 
 ---
 
+## 🤖 AI Assistant
+
+<p align="center">
+  <a href="https://wormuptodate.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Chat_with_My_AI-00C853?style=for-the-badge&logo=vercel&logoColor=white" 
+         alt="Chat with AI"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>💡 Ask me anything about cybersecurity, coding, or collab ideas!</sub>
+</p>
+
+---
+
 <h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
   <a href="mailto:danarfirdhan@gmail.com">
@@ -33,6 +48,9 @@
   </a>
   <a href="https://www.linkedin.com/in/danar-firdhan-roichan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wormuptodate.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/AI_Chat-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Chat"/>
   </a>
 </p>
 
