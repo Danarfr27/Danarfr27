@@ -26,17 +26,23 @@
 
 ---
 
-## 🤖 AI Assistant
+## 🤖 AI Chat Assistant
 
 <p align="center">
   <a href="https://wormuptodate.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Chat_with_My_AI-00C853?style=for-the-badge&logo=vercel&logoColor=white" 
-         alt="Chat with AI"/>
+    <img src="https://img.shields.io/badge/🟢_Online-Click_to_Chat-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="AI Chat Online"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>💡 Ask me anything about cybersecurity, coding, or collab ideas!</sub>
+  <a href="https://wormuptodate.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Danarfr27/NASA/main/ai-chat-preview.gif" 
+         alt="AI Chat Preview" width="500"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>💡 Ask me anything: cybersecurity, coding, collab ideas, or just say hi!</sub>
 </p>
 
 ---
