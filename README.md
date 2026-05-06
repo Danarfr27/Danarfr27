@@ -1,13 +1,27 @@
 <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM3aHB6Z2t5OXNxdjAxcGlsZXQwZXpyMmNoODFkZzd6bnp4dnJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaV9pZCZjdD1n/MCXgiBVDl8QtojG1fU/giphy.gif" 
-      alt="Cybersecurity Banner" width="600" loop/>
+      alt="Cybersecurity Banner" width="600"/>
 </p>
 
 <h1 align="center">Hi there, I'm FE4RD0WN !! 👋</h1>
-<h3 align="center">"Known as Random people and random repo :3".</h3>
+<h3 align="center">"Known as Random people and random repo :3"</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=versaagonon&label=Profile%20Views&color=1e90ff&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Danarfr27&label=Profile%20Views&color=1e90ff&style=flat-square" alt="profile views"/>
+</p>
+
+---
+
+## 🏆 Security Recognition
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Danarfr27/NASA/main/we.jpeg" 
+       alt="NASA VDP Recognition Letter" width="600"/>
+</p>
+
+<p align="center">
+  <b>🚀 NASA Vulnerability Disclosure Program (VDP)</b><br>
+  <sub>Recognized for responsible security vulnerability reporting — March 2026</sub>
 </p>
 
 ---
@@ -31,7 +45,7 @@
         <li>Experienced in reverse engineering, security analysis, and ethical hacking</li>
         <li>Skilled in <strong>C, C++, and Python</strong></li>
         <li>Open to collaborating on meaningful security research and software projects</li>
-        <li>xAlways learning advanced cybersecurity techniques</li>
+        <li>Always learning advanced cybersecurity techniques</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -44,8 +58,6 @@
     </td>
   </tr>
 </table>
-
-
 
 <p align="center">
   <a href="https://f.top4top.io/m_37387wpn81.mp4">
